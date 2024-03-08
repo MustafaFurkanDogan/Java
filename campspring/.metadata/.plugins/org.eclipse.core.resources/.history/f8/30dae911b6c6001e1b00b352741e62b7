@@ -1,0 +1,5 @@
+package kodlama.io.rentACar.dataacces.abstracts;
+
+public interface ModelRepository {
+
+}
